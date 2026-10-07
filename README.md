@@ -1,4 +1,3 @@
-# odoo_sales_app
 
 # Odoo Sales App
 
